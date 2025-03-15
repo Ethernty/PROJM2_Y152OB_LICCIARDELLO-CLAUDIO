@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDOqjUZE9fvapMXkgxnYyA7Fm3RiqX5dWTOcqFoF+sYFtHDubHSoMlqgKkX7HT01+bWqH+kKxKF4XaypZIYCSw==",
+  "success": true,
+  "projectFilePath": "D:\\NIK\\projekt\\BlockchainChatClient\\BlockchainChatClient\\BlockchainChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lovag\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
